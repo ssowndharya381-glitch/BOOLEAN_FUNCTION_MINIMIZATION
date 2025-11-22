@@ -31,7 +31,7 @@ Hardware – PCs, Cyclone II , USB flasher
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**
+**Program:**   
 module funct1(a,b,c,d,f1);    
 input a,b,c,d;    
 output f1;      
